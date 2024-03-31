@@ -6,6 +6,9 @@ This repository contains the IBM HR Analytics Dashboard designed to provide insi
 ## Dataset: 
 The data visualized in this dashboard is sourced from Kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ## Dashboard Features
+
+![IBM HR Analytics Dashboard](https://github.com/radhikaganesh29/IBM-HR-Analytics-Tableau-Dashboard/assets/158646026/949556ed-68c8-4c99-b91f-986df185ba3f)
+
 - **Gender in the Company**: Pie chart showing the percentage of male to female employees in the company.
 - **Gender and Job Role**: A comparison of gender distribution across different job roles.
 - **Number of Companies Worked For**: Line graph detailing the number of companies employees have worked for, categorized by gender.
